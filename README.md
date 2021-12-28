@@ -1,4 +1,6 @@
-﻿# BUG反馈帖子撰写的规范及建议
+[中文](https://github.com/Dr-WeiAL/RedAlert3-Remix/blob/main/README.md) [English](https://github.com/Dr-WeiAL/RedAlert3-Remix/blob/main/English.md)
+
+# BUG反馈帖子撰写的规范及建议
 
 ##### 为了提高对大家所反馈问题的处理效率，也为了节约大家的时间，请在提交问题反馈前先阅读以下内容。
 
