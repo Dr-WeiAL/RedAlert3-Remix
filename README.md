@@ -20,7 +20,7 @@
 
    这个就不用解释了吧。
 
-
+[点击这里就可以反馈了](https://github.com/Dr-WeiAL/RedAlert3-Remix/issues/new/choose)
 
 #### 在提交反馈前，如果有条件的话，可以尝试重现问题。
 
